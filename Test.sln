@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area", "Area\Area.csproj", "{87B1C5A6-336A-43FF-A1F8-76C2D22092C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{77CADBCD-421B-4A47-8870-0959581BB5E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87B1C5A6-336A-43FF-A1F8-76C2D22092C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87B1C5A6-336A-43FF-A1F8-76C2D22092C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87B1C5A6-336A-43FF-A1F8-76C2D22092C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87B1C5A6-336A-43FF-A1F8-76C2D22092C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77CADBCD-421B-4A47-8870-0959581BB5E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77CADBCD-421B-4A47-8870-0959581BB5E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77CADBCD-421B-4A47-8870-0959581BB5E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77CADBCD-421B-4A47-8870-0959581BB5E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
